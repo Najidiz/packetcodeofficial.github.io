@@ -1,0 +1,58 @@
+h2, h4, h5, h6, p, {
+    font-family: 'Playfair Display', serif;
+}
+
+h3, h1 {
+    font-family: 'Brygada 1918', serif;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.jumbotron {
+    border-radius: 20px;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    background-image: url(images/Bg.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.display-4 h1{
+    font: italic;
+}
+
+.post2{
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.blog-post{
+    margin-bottom: 40px;
+}
+
+
+#about {
+    border-radius: 20px;
+    padding: 40px;
+}
+
+footer {
+    margin-top: 100px;
+    background-color: #000000;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+#footer h1{
+    color: white;
+}

@@ -1,0 +1,1 @@
+window.alert("Welcome to Najid's Blog where words spark ideas. Explore bite-sized musings on literature, culture, and curiosity. Welcome to our world of big ideas in small doses!")
